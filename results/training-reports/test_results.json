@@ -1,0 +1,9 @@
+{
+    "test_accuracy": 0.7129032015800476,
+    "test_loss": 0.7507370710372925,
+    "model_input_shape": "64x64x3",
+    "model_size_parameters": 6886,
+    "model_size_float32_kb": 26.8984375,
+    "model_size_int8_kb": 6.724609375,
+    "optimized_for": "PSRAM 512KB constraint"
+}

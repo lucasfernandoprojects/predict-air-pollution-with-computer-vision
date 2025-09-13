@@ -1,0 +1,12 @@
+{
+    "input_shape": [
+        64,
+        64,
+        3
+    ],
+    "total_parameters": 6886,
+    "estimated_size_float32_kb": 26.8984375,
+    "estimated_size_int8_kb": 6.724609375,
+    "layers": 15,
+    "architecture": "tiny_cnn_64x64"
+}

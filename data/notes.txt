@@ -1,0 +1,7 @@
+Training data is available at:
+
+https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal
+
+Evaluating data is available at:
+
+https://data.mendeley.com/datasets/j654cspb6r/2

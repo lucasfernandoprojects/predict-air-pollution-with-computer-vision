@@ -1,0 +1,457 @@
+image_path,true_label,predicted_label,confidence,correct,valid_prediction
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275318912.jpg,good,good,0.8671875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275147881.jpg,good,unhealthy,0.75390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274708831.jpg,good,very-unhealthy,0.6640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274703961.jpg,good,unhealthy-for-sensitive-groups,0.5078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275320357.jpg,good,very-unhealthy,0.48046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275467418.jpg,good,very-unhealthy,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275141496.jpg,good,very-unhealthy,0.48046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275143445.jpg,good,unhealthy-for-sensitive-groups,0.40234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275151837.jpg,good,very-unhealthy,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275321771.jpg,good,unhealthy,0.9140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274701977.jpg,good,good,0.55859375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274711160.jpg,good,unhealthy-for-sensitive-groups,0.41015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275319661.jpg,good,very-unhealthy,0.4609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275321468.jpg,good,unhealthy,0.875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274702924.jpg,good,very-unhealthy,0.58203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274709362.jpg,good,very-unhealthy,0.59765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275149270.jpg,good,very-unhealthy,0.54296875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275322726.jpg,good,very-unhealthy,0.55078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274700813.jpg,good,very-unhealthy,0.52734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274701510.jpg,good,very-unhealthy,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275150608.jpg,good,very-unhealthy,0.49609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274714075.jpg,good,very-unhealthy,0.6015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274708074.jpg,good,good,0.50390625,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274702438.jpg,good,very-unhealthy,0.51171875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274701742.jpg,good,very-unhealthy,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275151508.jpg,good,very-unhealthy,0.49609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275321141.jpg,good,unhealthy,0.77734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274707300.jpg,good,very-unhealthy,0.49609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275153155.jpg,good,very-unhealthy,0.59375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275145512.jpg,good,unhealthy-for-sensitive-groups,0.93359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275144169.jpg,good,unhealthy,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275148454.jpg,good,very-unhealthy,0.6328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275150353.jpg,good,very-unhealthy,0.44921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275141778.jpg,good,very-unhealthy,0.55078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275144957.jpg,good,unhealthy-for-sensitive-groups,0.91796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275319866.jpg,good,good,0.53125,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275147353.jpg,good,unhealthy-for-sensitive-groups,0.72265625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275317883.jpg,good,very-unhealthy,0.3984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275466951.jpg,good,unhealthy-for-sensitive-groups,0.46484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274706510.jpg,good,unhealthy-for-sensitive-groups,0.55078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275465937.jpg,good,very-unhealthy,0.57421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274708594.jpg,good,unhealthy-for-sensitive-groups,0.58203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274705791.jpg,good,unhealthy-for-sensitive-groups,0.58203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275148962.jpg,good,unhealthy-for-sensitive-groups,0.5625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275467196.jpg,good,very-unhealthy,0.42578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274710158.jpg,good,very-unhealthy,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274713152.jpg,good,good,0.80078125,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274704772.jpg,good,unhealthy-for-sensitive-groups,0.81640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275153649.jpg,good,unhealthy,0.53515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274703187.jpg,good,very-unhealthy,0.3828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274713821.jpg,good,very-unhealthy,0.390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275319396.jpg,good,good,0.81640625,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275145768.jpg,good,unhealthy-for-sensitive-groups,0.59765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275322412.jpg,good,unhealthy,0.87890625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274710415.jpg,good,very-unhealthy,0.57421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275145985.jpg,good,unhealthy-for-sensitive-groups,0.62890625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274702681.jpg,good,very-unhealthy,0.61328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275317400.jpg,good,very-unhealthy,0.46484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274709620.jpg,good,very-unhealthy,0.48828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275151179.jpg,good,very-unhealthy,0.5859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274706256.jpg,good,unhealthy-for-sensitive-groups,0.5078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275149792.jpg,good,unhealthy-for-sensitive-groups,0.4140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274709892.jpg,good,good,0.42578125,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275148166.jpg,good,very-unhealthy,0.546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275466455.jpg,good,good,0.375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275144699.jpg,good,very-unhealthy,0.65234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275142097.jpg,good,very-unhealthy,0.53125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275146502.jpg,good,very-unhealthy,0.609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275320606.jpg,good,very-unhealthy,0.76171875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275152388.jpg,good,unhealthy,0.75,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275142961.jpg,good,good,0.45703125,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275152915.jpg,good,very-unhealthy,0.5625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275144428.jpg,good,unhealthy-for-sensitive-groups,0.921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275146761.jpg,good,unhealthy-for-sensitive-groups,0.4609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274706009.jpg,good,unhealthy-for-sensitive-groups,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275143698.jpg,good,unhealthy-for-sensitive-groups,0.734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275145263.jpg,good,unhealthy-for-sensitive-groups,0.82421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275149510.jpg,good,very-unhealthy,0.53125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274710648.jpg,good,unhealthy-for-sensitive-groups,0.52734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275148713.jpg,good,unhealthy,0.64453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275322066.jpg,good,unhealthy,0.85546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275142394.jpg,good,very-unhealthy,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275141267.jpg,good,unhealthy,0.52734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275467757.jpg,good,very-unhealthy,0.58203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275143928.jpg,good,very-unhealthy,0.4140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275150864.jpg,good,very-unhealthy,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274712920.jpg,good,very-unhealthy,0.54296875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274710912.jpg,good,unhealthy-for-sensitive-groups,0.4296875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275319139.jpg,good,good,0.51953125,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275140982.jpg,good,very-unhealthy,0.65625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275147052.jpg,good,unhealthy-for-sensitive-groups,0.765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275320079.jpg,good,very-unhealthy,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275466699.jpg,good,unhealthy-for-sensitive-groups,0.5234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275317647.jpg,good,good,0.87890625,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274711431.jpg,good,good,0.859375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274703467.jpg,good,very-unhealthy,0.65625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274709086.jpg,good,very-unhealthy,0.54296875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274707814.jpg,good,unhealthy-for-sensitive-groups,0.5234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275150081.jpg,good,very-unhealthy,0.5,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275140696.jpg,good,good,0.54296875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275153393.jpg,good,very-unhealthy,0.5,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274712444.jpg,good,very-unhealthy,0.58203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275320912.jpg,good,good,0.46875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274700572.jpg,good,good,0.38671875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274714324.jpg,good,very-unhealthy,0.546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274701271.jpg,good,very-unhealthy,0.5859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274705317.jpg,good,unhealthy-for-sensitive-groups,0.62109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275146232.jpg,good,unhealthy-for-sensitive-groups,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275152108.jpg,good,very-unhealthy,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274713315.jpg,good,very-unhealthy,0.4609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275322973.jpg,good,very-unhealthy,0.69921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275143218.jpg,good,very-unhealthy,0.6015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275147626.jpg,good,good,0.60546875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274701031.jpg,good,very-unhealthy,0.50390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274706768.jpg,good,unhealthy-for-sensitive-groups,0.50390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275466212.jpg,good,very-unhealthy,0.5078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274703711.jpg,good,very-unhealthy,0.63671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274704199.jpg,good,unhealthy-for-sensitive-groups,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274702218.jpg,good,very-unhealthy,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275318148.jpg,good,good,0.90234375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274707548.jpg,good,very-unhealthy,0.67578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274705549.jpg,good,unhealthy-for-sensitive-groups,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275142662.jpg,good,unhealthy-for-sensitive-groups,0.51953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274712681.jpg,good,very-unhealthy,0.51953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274707032.jpg,good,very-unhealthy,0.4140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274712197.jpg,good,good,0.78515625,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275318660.jpg,good,good,0.66015625,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274708332.jpg,good,good,0.578125,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274711959.jpg,good,good,0.60546875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274704487.jpg,good,very-unhealthy,0.609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275318399.jpg,good,very-unhealthy,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274713569.jpg,good,very-unhealthy,0.59765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274711679.jpg,good,good,0.84765625,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712275152670.jpg,good,very-unhealthy,0.75390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/good/1712274705047.jpg,good,very-unhealthy,0.49609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274138875.jpg,moderate,unhealthy-for-sensitive-groups,0.69140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274129790.jpg,moderate,very-unhealthy,0.54296875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274147965.jpg,moderate,good,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274182434.jpg,moderate,unhealthy-for-sensitive-groups,0.85546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274182758.jpg,moderate,very-unhealthy,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274156334.jpg,moderate,good,0.5,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274183046.jpg,moderate,very-unhealthy,0.46875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274149987.jpg,moderate,unhealthy-for-sensitive-groups,0.41015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274141836.jpg,moderate,good,0.63671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274158558.jpg,moderate,unhealthy-for-sensitive-groups,0.48046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274147697.jpg,moderate,good,0.421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274128659.jpg,moderate,very-unhealthy,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274148526.jpg,moderate,good,0.51171875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274128975.jpg,moderate,good,0.66796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274151800.jpg,moderate,good,0.5625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274181109.jpg,moderate,unhealthy,0.53125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274167417.jpg,moderate,very-unhealthy,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274166467.jpg,moderate,unhealthy-for-sensitive-groups,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274144668.jpg,moderate,very-unhealthy,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274172695.jpg,moderate,very-unhealthy,0.453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274130287.jpg,moderate,very-unhealthy,0.546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274148265.jpg,moderate,very-unhealthy,0.46484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274134642.jpg,moderate,unhealthy-for-sensitive-groups,0.48046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274165073.jpg,moderate,good,0.80859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274149104.jpg,moderate,very-unhealthy,0.52734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274155494.jpg,moderate,unhealthy-for-sensitive-groups,0.8515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274164812.jpg,moderate,very-unhealthy,0.4296875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274176806.jpg,moderate,unhealthy,0.48828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274136128.jpg,moderate,very-unhealthy,0.49609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274165647.jpg,moderate,very-unhealthy,0.41015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274162803.jpg,moderate,very-unhealthy,0.640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274174774.jpg,moderate,unhealthy-for-sensitive-groups,0.44921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274167077.jpg,moderate,good,0.453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274154392.jpg,moderate,unhealthy-for-sensitive-groups,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274155213.jpg,moderate,unhealthy-for-sensitive-groups,0.56640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274169924.jpg,moderate,very-unhealthy,0.40234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274157733.jpg,moderate,very-unhealthy,0.3671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274149396.jpg,moderate,good,0.83203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274173555.jpg,moderate,very-unhealthy,0.5546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274175365.jpg,moderate,unhealthy,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274154963.jpg,moderate,unhealthy-for-sensitive-groups,0.47265625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274139447.jpg,moderate,unhealthy-for-sensitive-groups,0.42578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274163689.jpg,moderate,good,0.82421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274175971.jpg,moderate,unhealthy,0.421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274174206.jpg,moderate,unhealthy-for-sensitive-groups,0.59765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274140693.jpg,moderate,unhealthy-for-sensitive-groups,0.4609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274153503.jpg,moderate,unhealthy,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274137358.jpg,moderate,good,0.69140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274179121.jpg,moderate,very-unhealthy,0.55078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274157469.jpg,moderate,very-unhealthy,0.5703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274160042.jpg,moderate,very-unhealthy,0.390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274169291.jpg,moderate,very-unhealthy,0.5625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274179420.jpg,moderate,unhealthy,0.4375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274139759.jpg,moderate,good,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274135560.jpg,moderate,very-unhealthy,0.50390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274175054.jpg,moderate,very-unhealthy,0.59765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274182095.jpg,moderate,unhealthy-for-sensitive-groups,0.91015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274159438.jpg,moderate,good,0.33984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274161647.jpg,moderate,good,0.51171875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274129239.jpg,moderate,good,0.48828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274130554.jpg,moderate,very-unhealthy,0.69921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274152346.jpg,moderate,good,0.41796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274171508.jpg,moderate,very-unhealthy,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274150781.jpg,moderate,good,0.8515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274161291.jpg,moderate,good,0.71875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274146853.jpg,moderate,very-unhealthy,0.390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274160959.jpg,moderate,good,0.7734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274155767.jpg,moderate,very-unhealthy,0.55859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274132366.jpg,moderate,very-unhealthy,0.38671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274172138.jpg,moderate,unhealthy-for-sensitive-groups,0.41015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274148799.jpg,moderate,unhealthy-for-sensitive-groups,0.51171875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274131123.jpg,moderate,unhealthy-for-sensitive-groups,0.5078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274177828.jpg,moderate,unhealthy-for-sensitive-groups,0.53125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274172413.jpg,moderate,very-unhealthy,0.48828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274166752.jpg,moderate,good,0.40625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274147142.jpg,moderate,good,0.8125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274131747.jpg,moderate,unhealthy-for-sensitive-groups,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274151284.jpg,moderate,unhealthy-for-sensitive-groups,0.40625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274173277.jpg,moderate,very-unhealthy,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274144376.jpg,moderate,unhealthy-for-sensitive-groups,0.49609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274135840.jpg,moderate,very-unhealthy,0.52734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274178485.jpg,moderate,very-unhealthy,0.58984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274136704.jpg,moderate,unhealthy-for-sensitive-groups,0.5859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274159729.jpg,moderate,unhealthy-for-sensitive-groups,0.39453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274183357.jpg,moderate,very-unhealthy,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274165910.jpg,moderate,good,0.58203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274154681.jpg,moderate,good,0.66796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274156864.jpg,moderate,good,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274179704.jpg,moderate,very-unhealthy,0.3984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274134950.jpg,moderate,unhealthy-for-sensitive-groups,0.44140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274168317.jpg,moderate,very-unhealthy,0.44140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274133329.jpg,moderate,unhealthy-for-sensitive-groups,0.8046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274132982.jpg,moderate,unhealthy-for-sensitive-groups,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274156594.jpg,moderate,very-unhealthy,0.3984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274152608.jpg,moderate,unhealthy-for-sensitive-groups,0.44921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274146578.jpg,moderate,very-unhealthy,0.70703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274181425.jpg,moderate,hazardous,0.68359375,False,False
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274133595.jpg,moderate,very-unhealthy,0.3515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274152903.jpg,moderate,good,0.50390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274138281.jpg,moderate,unhealthy-for-sensitive-groups,0.703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274177066.jpg,moderate,unhealthy,0.6484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274173889.jpg,moderate,very-unhealthy,0.41796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274137970.jpg,moderate,unhealthy-for-sensitive-groups,0.5078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274140973.jpg,moderate,unhealthy,0.3359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274139155.jpg,moderate,unhealthy-for-sensitive-groups,0.76171875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274172987.jpg,moderate,unhealthy,0.421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274175688.jpg,moderate,very-unhealthy,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274163992.jpg,moderate,good,0.48046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274153798.jpg,moderate,very-unhealthy,0.52734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274180005.jpg,moderate,very-unhealthy,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274180367.jpg,moderate,very-unhealthy,0.5546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274151557.jpg,moderate,very-unhealthy,0.40234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274168621.jpg,moderate,good,0.4609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274160353.jpg,moderate,good,0.8359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274169608.jpg,moderate,very-unhealthy,0.6328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274161951.jpg,moderate,good,0.3515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274162223.jpg,moderate,good,0.80859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274140076.jpg,moderate,good,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274147428.jpg,moderate,very-unhealthy,0.67578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274183952.jpg,moderate,unhealthy,0.58203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274143793.jpg,moderate,unhealthy,0.77734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274176237.jpg,moderate,unhealthy-for-sensitive-groups,0.48046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274157180.jpg,moderate,very-unhealthy,0.50390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274134360.jpg,moderate,very-unhealthy,0.5,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274183661.jpg,moderate,very-unhealthy,0.48828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274137675.jpg,moderate,unhealthy-for-sensitive-groups,0.453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274132657.jpg,moderate,unhealthy-for-sensitive-groups,0.453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274145011.jpg,moderate,very-unhealthy,0.58984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274164540.jpg,moderate,very-unhealthy,0.53125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274167726.jpg,moderate,unhealthy,0.76953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274145992.jpg,moderate,very-unhealthy,0.6171875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274142144.jpg,moderate,unhealthy,0.359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274130821.jpg,moderate,unhealthy-for-sensitive-groups,0.359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274162530.jpg,moderate,very-unhealthy,0.42578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274141292.jpg,moderate,good,0.80859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274143496.jpg,moderate,good,0.8828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274176507.jpg,moderate,very-unhealthy,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274146283.jpg,moderate,very-unhealthy,0.5234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274170865.jpg,moderate,very-unhealthy,0.44140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274168019.jpg,moderate,very-unhealthy,0.515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274142413.jpg,moderate,unhealthy,0.5078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274145655.jpg,moderate,very-unhealthy,0.7109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274143211.jpg,moderate,good,0.78515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274170561.jpg,moderate,very-unhealthy,0.53125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274132061.jpg,moderate,good,0.5234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274144074.jpg,moderate,good,0.48828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274142664.jpg,moderate,good,0.44921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274129509.jpg,moderate,good,0.5703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274131440.jpg,moderate,very-unhealthy,0.578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274152066.jpg,moderate,good,0.61328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274178817.jpg,moderate,very-unhealthy,0.3984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274163079.jpg,moderate,very-unhealthy,0.5859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274133848.jpg,moderate,unhealthy,0.3359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274158275.jpg,moderate,very-unhealthy,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274135247.jpg,moderate,unhealthy-for-sensitive-groups,0.90625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274150239.jpg,moderate,unhealthy-for-sensitive-groups,0.45703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274156078.jpg,moderate,very-unhealthy,0.60546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274137009.jpg,moderate,very-unhealthy,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274181761.jpg,moderate,very-unhealthy,0.5390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274177572.jpg,moderate,unhealthy-for-sensitive-groups,0.4453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274136431.jpg,moderate,very-unhealthy,0.484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274171203.jpg,moderate,unhealthy-for-sensitive-groups,0.36328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274174495.jpg,moderate,unhealthy,0.9140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274134098.jpg,moderate,unhealthy,0.64453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274142957.jpg,moderate,unhealthy-for-sensitive-groups,0.3515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274140401.jpg,moderate,very-unhealthy,0.4140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274164255.jpg,moderate,very-unhealthy,0.46875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274180760.jpg,moderate,very-unhealthy,0.4921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274141543.jpg,moderate,unhealthy-for-sensitive-groups,0.51953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274178162.jpg,moderate,unhealthy-for-sensitive-groups,0.49609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274171800.jpg,moderate,very-unhealthy,0.67578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274168931.jpg,moderate,very-unhealthy,0.515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274177307.jpg,moderate,unhealthy-for-sensitive-groups,0.4296875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274149700.jpg,moderate,very-unhealthy,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274160641.jpg,moderate,good,0.734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274153206.jpg,moderate,unhealthy-for-sensitive-groups,0.4140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274159127.jpg,moderate,good,0.6640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274150515.jpg,moderate,good,0.46875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274130058.jpg,moderate,hazardous,0.90625,False,False
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274166192.jpg,moderate,very-unhealthy,0.390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274138558.jpg,moderate,good,0.8046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274158837.jpg,moderate,unhealthy,0.43359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274165368.jpg,moderate,good,0.61328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274145368.jpg,moderate,very-unhealthy,0.52734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274154084.jpg,moderate,very-unhealthy,0.51953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274151032.jpg,moderate,very-unhealthy,0.47265625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274158002.jpg,moderate,very-unhealthy,0.50390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/moderate/1712274170268.jpg,moderate,good,0.4765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2813.JPG,unhealthy-for-sensitive-groups,good,0.75390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2786.JPG,unhealthy-for-sensitive-groups,good,0.62109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2816.JPG,unhealthy-for-sensitive-groups,good,0.81640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2799.JPG,unhealthy-for-sensitive-groups,good,0.859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2807.JPG,unhealthy-for-sensitive-groups,good,0.7890625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2809.JPG,unhealthy-for-sensitive-groups,good,0.68359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2784.JPG,unhealthy-for-sensitive-groups,good,0.67578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2800.JPG,unhealthy-for-sensitive-groups,good,0.84765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2821.JPG,unhealthy-for-sensitive-groups,good,0.7734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2782.JPG,unhealthy-for-sensitive-groups,good,0.67578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2820.JPG,unhealthy-for-sensitive-groups,good,0.69921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2818.JPG,unhealthy-for-sensitive-groups,good,0.77734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2808.JPG,unhealthy-for-sensitive-groups,good,0.734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2814.JPG,unhealthy-for-sensitive-groups,good,0.6953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2801.JPG,unhealthy-for-sensitive-groups,good,0.640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2789.JPG,unhealthy-for-sensitive-groups,good,0.828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2805.JPG,unhealthy-for-sensitive-groups,good,0.5234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2822.JPG,unhealthy-for-sensitive-groups,good,0.7734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2810.JPG,unhealthy-for-sensitive-groups,good,0.69921875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2819.JPG,unhealthy-for-sensitive-groups,good,0.83203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2817.JPG,unhealthy-for-sensitive-groups,good,0.82421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2811.JPG,unhealthy-for-sensitive-groups,good,0.72265625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2783.JPG,unhealthy-for-sensitive-groups,good,0.51953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2787.JPG,unhealthy-for-sensitive-groups,good,0.69140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2802.JPG,unhealthy-for-sensitive-groups,good,0.625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2785.JPG,unhealthy-for-sensitive-groups,good,0.51953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2812.JPG,unhealthy-for-sensitive-groups,good,0.93359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2823.JPG,unhealthy-for-sensitive-groups,good,0.81640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy-for-sensitive-groups/Copy of IMG_2788.JPG,unhealthy-for-sensitive-groups,good,0.8046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2701.JPG,unhealthy,good,0.6875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2796.JPG,unhealthy,good,0.87109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2828.JPG,unhealthy,good,0.83203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2684.JPG,unhealthy,good,0.68359375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2715.JPG,unhealthy,good,0.7265625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2758.JPG,unhealthy,good,0.859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2708.JPG,unhealthy,unhealthy,0.34375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2696.JPG,unhealthy,unhealthy-for-sensitive-groups,0.40234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2848.JPG,unhealthy,good,0.81640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2767.JPG,unhealthy,good,0.796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2834.JPG,unhealthy,good,0.765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2795.JPG,unhealthy,good,0.86328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2669.JPG,unhealthy,good,0.8125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2847.JPG,unhealthy,good,0.78125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2780.JPG,unhealthy,good,0.77734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2841.JPG,unhealthy,good,0.7578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2700.JPG,unhealthy,good,0.828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2830.JPG,unhealthy,good,0.78515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2716.JPG,unhealthy,good,0.80859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2699.JPG,unhealthy,good,0.83203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2774.JPG,unhealthy,good,0.80078125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2688.JPG,unhealthy,good,0.6640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2697.JPG,unhealthy,good,0.71875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2766.JPG,unhealthy,good,0.7890625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2704.JPG,unhealthy,good,0.59765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2675.JPG,unhealthy,good,0.82421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2680.JPG,unhealthy,very-unhealthy,0.58984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2850.JPG,unhealthy,good,0.66015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2826.JPG,unhealthy,good,0.73046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2777.JPG,unhealthy,good,0.83984375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2760.JPG,unhealthy,good,0.85546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2706.JPG,unhealthy,good,0.51953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2794.JPG,unhealthy,good,0.6953125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2845.JPG,unhealthy,good,0.85546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2846.JPG,unhealthy,good,0.8203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2672.JPG,unhealthy,good,0.6328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2762.JPG,unhealthy,good,0.78125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2693.JPG,unhealthy,unhealthy,0.41796875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2690.JPG,unhealthy,good,0.78515625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2711.JPG,unhealthy,good,0.64453125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2761.JPG,unhealthy,good,0.8203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2827.JPG,unhealthy,good,0.69140625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2671.JPG,unhealthy,good,0.83203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2825.JPG,unhealthy,good,0.74609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2698.JPG,unhealthy,good,0.67578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2852.JPG,unhealthy,good,0.796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2775.JPG,unhealthy,good,0.70703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2779.JPG,unhealthy,good,0.78125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2687.JPG,unhealthy,good,0.671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2702.JPG,unhealthy,good,0.765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2686.JPG,unhealthy,good,0.62109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2694.JPG,unhealthy,unhealthy,0.48046875,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2832.JPG,unhealthy,good,0.7734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2776.JPG,unhealthy,good,0.75390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2849.JPG,unhealthy,good,0.734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2773.JPG,unhealthy,good,0.7890625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2689.JPG,unhealthy,good,0.63671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2842.JPG,unhealthy,good,0.75390625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2673.JPG,unhealthy,good,0.8203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2682.JPG,unhealthy,good,0.671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2705.JPG,unhealthy,good,0.7734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2765.JPG,unhealthy,good,0.66015625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2829.JPG,unhealthy,good,0.82421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2778.JPG,unhealthy,good,0.7734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2793.JPG,unhealthy,good,0.85546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2764.JPG,unhealthy,good,0.734375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2792.JPG,unhealthy,good,0.70703125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2681.JPG,unhealthy,good,0.6484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2695.JPG,unhealthy,unhealthy-for-sensitive-groups,0.421875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2831.JPG,unhealthy,good,0.7578125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2703.JPG,unhealthy,good,0.7109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2668.JPG,unhealthy,good,0.6328125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2763.JPG,unhealthy,good,0.81640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2791.JPG,unhealthy,good,0.75,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2759.JPG,unhealthy,good,0.859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2844.JPG,unhealthy,good,0.859375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2679.JPG,unhealthy,good,0.41796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/unhealthy/Copy of IMG_2835.JPG,unhealthy,good,0.71484375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2750.JPG,very-unhealthy,good,0.74609375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2741.JPG,very-unhealthy,very-unhealthy,0.359375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2726.JPG,very-unhealthy,good,0.88671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2720.JPG,very-unhealthy,good,0.8125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2748.JPG,very-unhealthy,good,0.85546875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2727.JPG,very-unhealthy,good,0.796875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2736.JPG,very-unhealthy,good,0.72265625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2747.JPG,very-unhealthy,good,0.765625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2724.JPG,very-unhealthy,good,0.8125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2731.JPG,very-unhealthy,good,0.87109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2721.JPG,very-unhealthy,very-unhealthy,0.36328125,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2730.JPG,very-unhealthy,good,0.8671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2739.JPG,very-unhealthy,very-unhealthy,0.5,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2725.JPG,very-unhealthy,good,0.83203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2733.JPG,very-unhealthy,good,0.73046875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2752.JPG,very-unhealthy,very-unhealthy,0.484375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2722.JPG,very-unhealthy,good,0.65234375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2723.JPG,very-unhealthy,good,0.828125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2746.JPG,very-unhealthy,good,0.78125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2756.JPG,very-unhealthy,good,0.8671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2737.JPG,very-unhealthy,good,0.640625,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2718.JPG,very-unhealthy,good,0.83203125,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2742.JPG,very-unhealthy,good,0.8671875,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2745.JPG,very-unhealthy,good,0.62109375,False,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2738.JPG,very-unhealthy,very-unhealthy,0.49609375,True,True
+/home/tony-stark/Projects/image-based-air-quality-classifier/data/evaluate-dataset/very-unhealthy/IMG_2728.JPG,very-unhealthy,good,0.78515625,False,True
