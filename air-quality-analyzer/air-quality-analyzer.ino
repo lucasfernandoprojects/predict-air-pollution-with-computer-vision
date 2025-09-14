@@ -77,7 +77,7 @@ void initializeTFLite() {
 
   // Safety check for model data
   if (best_model_h == nullptr) {
-    Serial.println("❌ Model data is null!");
+    Serial.println("Model data is null!");
     while(1) { delay(1000); }
   }
 
@@ -85,7 +85,7 @@ void initializeTFLite() {
   Serial.print("Model size: "); Serial.print(best_model_h_len); Serial.println(" bytes");
 
   if (model->version() != TFLITE_SCHEMA_VERSION) {
-    Serial.print("⚠️ Model version mismatch: "); Serial.println(model->version());
+    Serial.print("Model version mismatch: "); Serial.println(model->version());
     Serial.print("Expected: "); Serial.println(TFLITE_SCHEMA_VERSION);
   }
 
@@ -101,7 +101,7 @@ void initializeTFLite() {
   interpreter = &static_interpreter;
 
   if (interpreter->AllocateTensors() != kTfLiteOk) {
-    Serial.println("❌ AllocateTensors() failed");
+    Serial.println("AllocateTensors() failed");
     while (1) { delay(1000); }
   }
 
@@ -110,7 +110,7 @@ void initializeTFLite() {
 
   // Verify tensor allocation
   if (input->data.int8 == nullptr || output->data.int8 == nullptr) {
-    Serial.println("❌ Tensor data pointers are null!");
+    Serial.println("Tensor data pointers are null!");
     while (1) { delay(1000); }
   }
 
@@ -124,19 +124,19 @@ void initializeTFLite() {
   Serial.print("Input type: "); Serial.println(input->type);
   Serial.print("Output type: "); Serial.println(output->type);
 
-  Serial.println("✅ TFLite Micro initialized successfully!");
+  Serial.println("TFLite Micro initialized successfully!");
 }
 
 // Preprocess and run inference
 int processImage(uint8_t* image_data) {
-  // ✅ SAFETY CHECK - Ensure TFLite is initialized
+  // Ensure TFLite is initialized
   if (model == nullptr || interpreter == nullptr || input == nullptr || output == nullptr) {
-    Serial.println("❌ TFLite not initialized! Call initializeTFLite() first!");
+    Serial.println("TFLite not initialized! Call initializeTFLite() first!");
     return -1;
   }
 
   if (input->data.int8 == nullptr) {
-    Serial.println("❌ Input tensor data is null!");
+    Serial.println("Input tensor data is null!");
     return -1;
   }
 
@@ -151,7 +151,7 @@ int processImage(uint8_t* image_data) {
   Serial.println("Running inference...");
   unsigned long start_time = millis();
   if (interpreter->Invoke() != kTfLiteOk) {
-    Serial.println("❌ Inference failed!");
+    Serial.println("Inference failed!");
     return -1; // Return error code
   }
   unsigned long inference_time = millis() - start_time;
@@ -289,7 +289,7 @@ void setup() {
     // Check SD card status and print information
     printSDCardInfo();
 
-    // ✅ CRITICAL: Initialize TFLite Micro
+    // CRITICAL: Initialize TFLite Micro
     initializeTFLite();
 
     // Show welcome screen
@@ -484,7 +484,7 @@ bool resizeBMP16to24(const char* inName, const char* outName) {
   header.biClrImportant  = readLE32(inFile);
 
   if(header.biBitCount != 16) {
-    Serial.println("❌ Only 16-bit BMP supported");
+    Serial.println("Only 16-bit BMP supported");
     inFile.close();
     outFile.close();
     return false;
@@ -500,13 +500,13 @@ bool resizeBMP16to24(const char* inName, const char* outName) {
 
   // Check buffer sizes
   if (srcRowSize * actualSrcHeight > sizeof(srcData)) {
-    Serial.println("❌ Source image too large for buffer!");
+    Serial.println("Source image too large for buffer!");
     inFile.close();
     outFile.close();
     return false;
   }
   if (dstRowSize * dstHeight > sizeof(dstData)) {
-    Serial.println("❌ Destination buffer too small!");
+    Serial.println("Destination buffer too small!");
     inFile.close();
     outFile.close();
     return false;
@@ -576,7 +576,7 @@ bool resizeBMP16to24(const char* inName, const char* outName) {
 
   inFile.close();
   outFile.close();
-  Serial.println("✅ Image resized successfully");
+  Serial.println("Image resized successfully");
   return true;
 }
 
